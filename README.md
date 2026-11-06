@@ -32,6 +32,46 @@
 
 ---
 
+### 🎨 Criatividade & Design
+
+Além da ciência, eu crio: edito vídeos, desenvolvo artes e transformo conteúdo técnico em algo bonito, leve e fácil de entender. Aqui ficam algumas das minhas criações.
+
+#### 🎬 Edição de vídeo
+
+<p align="center"><sub>✨ Galeria em construção — novas criações chegando em breve</sub></p>
+
+<!-- GALERIA DE VÍDEOS (cada célula = 1 criação; a imagem é um GIF de prévia ou capa, e o link leva ao vídeo completo)
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="LINK-DO-VIDEO"><img src="portfolio/videos/NOME.gif" width="100%" alt="TÍTULO"></a>
+<br><b>TÍTULO</b><br><sub>Descrição curta · Ferramenta</sub>
+</td>
+</tr>
+</table>
+-->
+
+#### 🖼️ Design & imagem
+
+<p align="center"><sub>✨ Galeria em construção — novas criações chegando em breve</sub></p>
+
+<!-- GALERIA DE IMAGENS (cada célula = 1 criação)
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="portfolio/imagens/NOME.png" width="100%" alt="TÍTULO">
+<br><b>TÍTULO</b><br><sub>Descrição curta · Ferramenta</sub>
+</td>
+</tr>
+</table>
+-->
+
+<p align="center">
+<a href="https://www.instagram.com/maitecajazeira"><img src="https://img.shields.io/badge/Ver%20mais%20criações%20no%20Instagram-F8C8DC?style=flat-square&logo=instagram&logoColor=9C4A6E" alt="Ver mais criações no Instagram"></a>
+</p>
+
+---
+
 ### 🎀 Áreas de interesse
 
 ![Citogenômica](https://img.shields.io/badge/Citogenômica-FDE2EC?style=flat-square)
